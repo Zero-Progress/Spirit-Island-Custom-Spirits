@@ -1,0 +1,268 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "Boon_of_Prickling_Fate",
+      "Name": "CardCustom",
+      "Transform": {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1.53,
+        "scaleY": 1,
+        "scaleZ": 1.53
+      },
+      "Nickname": "Boon of Prickling Fate",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ColorDiffuse": {
+        "r": 0.7132,
+        "g": 0.7132,
+        "b": 0.7132
+      },
+      "Tags": [
+        "Slow",
+        "Unique"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 45703,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "457": {
+          "FaceURL": "https://i.imgur.com/JjlaX12.png",
+          "BackURL": "https://i.imgur.com/qfRIrtg.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "elements=\"00010101\"\nenergy=1\n",
+      "LuaScriptState": "{\"thresholds\":[]}",
+      "XmlUI": ""
+    },
+    {
+      "GUID": "Flee_Forsaken_Lands",
+      "Name": "CardCustom",
+      "Transform": {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1.53,
+        "scaleY": 1,
+        "scaleZ": 1.53
+      },
+      "Nickname": "Flee Forsaken Lands",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ColorDiffuse": {
+        "r": 0.7132,
+        "g": 0.7132,
+        "b": 0.7132
+      },
+      "Tags": [
+        "Slow",
+        "Unique"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 45703,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "457": {
+          "FaceURL": "https://i.imgur.com/JjlaX12.png",
+          "BackURL": "https://i.imgur.com/qfRIrtg.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "elements=\"00011100\"\nenergy=1\n",
+      "LuaScriptState": "{\"thresholds\":[]}",
+      "XmlUI": ""
+    },
+    {
+      "GUID": "Trespass_Forbidden_Tresholds",
+      "Name": "CardCustom",
+      "Transform": {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1.53,
+        "scaleY": 1,
+        "scaleZ": 1.53
+      },
+      "Nickname": "Trespass Forbidden Tresholds",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ColorDiffuse": {
+        "r": 0.7132,
+        "g": 0.7132,
+        "b": 0.7132
+      },
+      "Tags": [
+        "Fast",
+        "Unique"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 45703,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "457": {
+          "FaceURL": "https://i.imgur.com/JjlaX12.png",
+          "BackURL": "https://i.imgur.com/qfRIrtg.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "elements=\"01100101\"\nenergy=2\n",
+      "LuaScriptState": "{\"thresholds\":[]}",
+      "XmlUI": ""
+    },
+    {
+      "GUID": "No_Way_Out",
+      "Name": "CardCustom",
+      "Transform": {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1.53,
+        "scaleY": 1,
+        "scaleZ": 1.53
+      },
+      "Nickname": "No Way Out",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ColorDiffuse": {
+        "r": 0.7132,
+        "g": 0.7132,
+        "b": 0.7132
+      },
+      "Tags": [
+        "Fast",
+        "Unique"
+      ],
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": true,
+      "CardID": 45703,
+      "SidewaysCard": false,
+      "CustomDeck": {
+        "457": {
+          "FaceURL": "https://i.imgur.com/JjlaX12.png",
+          "BackURL": "https://i.imgur.com/qfRIrtg.png",
+          "NumWidth": 1,
+          "NumHeight": 1,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "elements=\"01010000\"\nenergy=0\n",
+      "LuaScriptState": "{\"thresholds\":[]}",
+      "XmlUI": ""
+    }
+  ]
+}
